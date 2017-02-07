@@ -1,0 +1,169 @@
+body { background-image: url(https://scontent.ftpa1-2.fna.fbcdn.net/v/t34.0-12/16443238_1323068444419797_1323198989_n.png?oh=d6a179d6a82e795dd0d3102733f19097&oe=5894EF96); 
+}
+
+.header {
+	font-family: 'Georgia', Times, Times New Roman, serif;
+	background-color: #4aaaa5;
+	font-size: 30px;
+	color: white;
+	margin: 60px;
+	padding: 5px;
+	width: 25%;
+	display: inline;
+}
+
+.me {
+	float: left;
+	margin: 0 0 10px 10px;
+}
+.about {
+	font-family: 'Georgia', Times, Times New Roman, serif;
+
+}
+
+.connect {
+	font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+.body {
+
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #ffffff;
+    display: inline;
+    float: right;
+
+   
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: #777777;
+    text-align: right;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: lightgrey;
+}
+
+.about {
+	color: #4aaaa5;
+}
+.container { 
+	color: #777777;
+	background-color:#ffffff;
+	float: left;
+	border-style: solid;
+	border-width: 5px;
+	border-color: #dddddd;
+	width: 650px;
+	display: inline;
+	position: relative;
+	padding: 20px;
+	margin-left: 35px;
+ }
+
+.links {
+ 	background-color: #ffffff;
+ 	float: right;
+ 	border-style: solid;
+	border-width: 5px;
+ 	border-color: #dddddd;
+ 	width: 270px;
+ 	display: inline;
+ 	position: relative;
+ 	padding: 20px;
+ 	margin-right: 45px;
+ }
+
+ #links {
+ 	width: 70px;
+ 	height: 70px;
+ 	margin: 7px;
+ }
+
+.connect {
+	color: #4aaaa5;
+	text-align: center;
+}
+
+footer {
+    clear: both;
+    position: relative;
+    z-index: 10;
+    height: 3em;
+    margin-top: -3em;
+    position: absolute;
+    bottom: 0;
+    background-color: #666666;
+    border-top: solid;
+    border-color: #4aaaa5;
+    border-width: 10px;
+    width: 100%;
+
+}
+
+.end { 
+	color: #777777;
+	text-align: center;
+ }
+
+.content {
+	margin: 30px;
+}
+
+hr {
+ margin: 5px 0px 25px 0px;
+ padding: 3px;
+ background-color: #CCCCCC;
+ border: none;
+ border-radius: 2px;
+}
+
+button {
+	background-color: #4aaaa5;
+	border-radius: 4px;
+	color: white;
+	padding: 15px 32px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	border: none;
+}
+
+div.img2 {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 180px;
+}
+
+div.img2:hover {
+    border: 1px solid #777;
+}
+
+div.img2 img {
+    width: 100%;
+    height: auto;
+}
+
+div.desc {
+    padding: 15px;
+    text-align: center;
+}
+
+.purple {
+	float: right;
+}
